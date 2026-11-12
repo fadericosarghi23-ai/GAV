@@ -1,6 +1,7 @@
 import { lazy, Suspense } from "react"
 import { BrowserRouter, Route, Routes } from "react-router"
 
+import { IntroProvider } from "@/components/layout/Intro"
 import { Layout } from "@/components/layout/Layout"
 import { SmoothScroll } from "@/components/motion/SmoothScroll"
 import Home from "@/pages/Home"
@@ -22,6 +23,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <SmoothScroll>
+        <IntroProvider>
         <Routes>
           <Route element={<Layout />}>
             <Route index element={<Home />} />
@@ -37,6 +39,7 @@ export default function App() {
             <Route path="*" element={page(<NotFound />)} />
           </Route>
         </Routes>
+        </IntroProvider>
       </SmoothScroll>
     </BrowserRouter>
   )

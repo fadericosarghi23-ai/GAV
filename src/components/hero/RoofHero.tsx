@@ -6,6 +6,7 @@ import { ArrowRight, MapPin, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Counter } from "@/components/motion/Reveal"
 import { useProgress } from "@/hooks/useProgress"
+import { useIntroDelay } from "@/components/layout/Intro"
 import { business, first, h, img, p, pageBlocks, tel } from "@/lib/content"
 import { GALLERY, SERVICES } from "@/lib/site"
 
@@ -27,6 +28,9 @@ export function RoofHero() {
   const photoY = useTransform(scroll, [0, 1], ["0%", "18%"])
   const textY = useTransform(scroll, [0, 1], ["0%", "-30%"])
   const textO = useTransform(scroll, [0, 0.6], [1, 0])
+  // se è appena passata l'animazione d'apertura, le lastre le ha già fatte lei: i testi entrano subito dopo
+  const intro = useIntroDelay()
+  const d = intro ? intro - 0.75 : 0
 
   return (
     <section ref={section} className="relative isolate flex min-h-svh flex-col overflow-hidden bg-navy-deep" aria-label="GAV SRLS">
@@ -40,7 +44,7 @@ export function RoofHero() {
           fetchPriority="high"
           initial={{ scale: 1.12 }}
           animate={{ scale: 1.02 }}
-          transition={{ duration: 2.6, ease }}
+          transition={{ duration: 2.6, ease, delay: d }}
           className="h-full w-full object-cover"
         />
       </motion.div>
@@ -50,7 +54,7 @@ export function RoofHero() {
 
       {/* apertura a lastre: ogni striscia blu scorre via e scopre la foto */}
       <div aria-hidden className="pointer-events-none absolute inset-0 z-10 flex">
-        {Array.from({ length: SHEETS }).map((_, i) => (
+        {!intro && Array.from({ length: SHEETS }).map((_, i) => (
           <motion.span
             key={i}
             initial={{ y: "0%" }}
@@ -70,7 +74,7 @@ export function RoofHero() {
         <motion.p
           initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease, delay: 0.9 }}
+          transition={{ duration: 0.8, ease, delay: d + 0.9 }}
           className="eyebrow flex items-center gap-3 text-white/80"
         >
           <span className="h-px w-10 bg-orange" />
@@ -85,7 +89,7 @@ export function RoofHero() {
                   className="inline-block"
                   initial={{ y: "105%" }}
                   animate={{ y: "0%" }}
-                  transition={{ duration: 0.9, ease, delay: 1 + i * 0.06 }}
+                  transition={{ duration: 0.9, ease, delay: d + 1 + i * 0.06 }}
                 >
                   {w}&nbsp;
                 </motion.span>
@@ -95,7 +99,7 @@ export function RoofHero() {
         <motion.p
           initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease, delay: 1.35 }}
+          transition={{ duration: 0.8, ease, delay: d + 1.35 }}
           className="mt-6 max-w-[34rem] text-[15px] leading-relaxed text-white/80 md:text-[17px]"
         >
           {p(home, "GAV SRLS è un")}
@@ -103,7 +107,7 @@ export function RoofHero() {
         <motion.div
           initial={{ opacity: 0, y: 14 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease, delay: 1.5 }}
+          transition={{ duration: 0.8, ease, delay: d + 1.5 }}
           className="mt-9 flex flex-wrap gap-3"
         >
           <Button asChild size="lg">
@@ -123,7 +127,7 @@ export function RoofHero() {
         <motion.p
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ delay: 1.8 }}
+          transition={{ delay: d + 1.8 }}
           className="absolute bottom-[104px] right-4 hidden max-w-xs text-right text-[12px] text-white/60 sm:right-6 md:block lg:right-10"
         >
           Cantiere GAV · {caption}
