@@ -1,0 +1,858 @@
+{
+  "importedAt": "2026-11-12T14:25:52.016Z",
+  "source": "https://gavsrls.it",
+  "pages": {
+    "home": {
+      "oldUrl": "/",
+      "seoTitle": "GAV srls - Imprese edili a Lombardia",
+      "description": "GAV SRLS è un’impresa operativa in Lombardia specializzata nel settore dell’edilizia e nei lavori di muratura, con un’offerta di servizi pensata per rispondere alle diverse esigenze di privati, aziende e proprietari di immobili.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Costruiamo Qualità, Realizziamo Progetti"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "GAV SRLS"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "GAV SRLS è un’impresa operativa in Lombardia specializzata nel settore dell’edilizia e nei lavori di muratura, con un’offerta di servizi pensata per rispondere alle diverse esigenze di privati, aziende e proprietari di immobili."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Richiedi un Preventivo",
+          "href": "/contatti"
+        },
+        {
+          "type": "button",
+          "text": "+393664159881",
+          "href": "tel:+393664159881"
+        },
+        {
+          "type": "image",
+          "image": "construction-worker-building-brick-wall-on-sunny-d"
+        },
+        {
+          "type": "feature",
+          "text": "Esperienza nel settore edile"
+        },
+        {
+          "type": "feature",
+          "text": "Lavori completi e coordinati"
+        },
+        {
+          "type": "feature",
+          "text": "Precisione e attenzione al cliente"
+        },
+        {
+          "type": "image",
+          "image": "construction-site-with-plans-hard-hat-and-cranes"
+        },
+        {
+          "type": "image",
+          "image": "stadium-construction-site-with-blue-crane-urban-ar"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Lavori di Muratura Eseguiti a Regola d’Arte"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Chi siamo"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nel settore delle costruzioni e delle ristrutturazioni, affidarsi a professionisti competenti significa poter contare su un servizio organizzato e su una gestione attenta delle diverse lavorazioni. GAV SRLS segue i propri clienti con un approccio concreto, dalla valutazione delle necessità iniziali fino alla realizzazione dell’intervento, proponendo soluzioni funzionali e adeguate alle caratteristiche di ogni progetto."
+          ]
+        },
+        {
+          "type": "counter",
+          "from": 0,
+          "to": 20,
+          "suffix": "+",
+          "label": "Anni d'esperienza"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ci occupiamo di lavori di muratura, coperture e interventi edili chiavi in mano, mettendo a disposizione esperienza e professionalità per realizzare lavori destinati a durare nel tempo."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ogni intervento viene affrontato con particolare attenzione alla qualità delle lavorazioni, alla precisione e al rispetto delle esigenze del cliente."
+        },
+        {
+          "type": "gallery",
+          "images": [
+            "cantiere-12-37-17-1",
+            "cantiere-12-37-18",
+            "cantiere-12-37-18-1",
+            "cantiere-12-37-19",
+            "cantiere-12-37-17"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Cosa Offriamo"
+        },
+        {
+          "type": "button",
+          "text": "Tutti i Servizi",
+          "href": "/servizi/"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Soluzioni Edili Affidabili in Lombardia"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Perché scegliere noi?"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Scegliere GAV SRLS significa affidarsi a un’impresa edile attenta alla qualità, alla precisione e alle esigenze di ogni cliente. Seguiamo ogni progetto con professionalità e cura, offrendo soluzioni concrete e un servizio organizzato."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Contatti",
+          "href": "/contatti"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "01."
+        },
+        {
+          "type": "feature",
+          "text": "Professionalità e competenza"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "02."
+        },
+        {
+          "type": "feature",
+          "text": "Qualità delle lavorazioni"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "03."
+        },
+        {
+          "type": "feature",
+          "text": "Attenzione al cliente"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Hai qualche domanda?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Ristrutturazioni Chiavi in Mano"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "La nostra presenza sul territorio lombardo ci permette di rivolgerci a una clientela diversificata, offrendo un servizio orientato alla puntualità e alla disponibilità. Crediamo che un buon risultato sia il frutto di una comunicazione chiara, di un’organizzazione efficace e di una costante attenzione alle necessità del cliente."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "+39 3664159881",
+          "href": "tel:+393664159881"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Testimonianze"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Cosa dicono i Nostri Clienti"
+        },
+        {
+          "type": "testimonials",
+          "items": [
+            {
+              "title": "Professionalità e attenzione",
+              "text": "Abbiamo scelto GAV SRLS per un intervento edile e siamo rimasti soddisfatti della professionalità dimostrata. Il lavoro è stato organizzato con attenzione e abbiamo trovato disponibilità durante tutte le fasi dell'intervento.",
+              "author": "Cliente."
+            },
+            {
+              "title": "Lavoro preciso e ben organizzato",
+              "text": "Ci siamo affidati a GAV SRLS per alcuni lavori di muratura. Abbiamo apprezzato la precisione, la puntualità e l'attenzione dimostrata verso le nostre esigenze. Un'esperienza positiva.",
+              "author": "Cliente."
+            },
+            {
+              "title": "Un servizio completo",
+              "text": "Per il nostro progetto cercavamo un'impresa che potesse occuparsi delle diverse lavorazioni. GAV SRLS ci ha seguito con professionalità e disponibilità, rendendo la gestione dei lavori più semplice e organizzata.",
+              "author": "Cliente."
+            }
+          ]
+        }
+      ]
+    },
+    "chi-siamo": {
+      "oldUrl": "/chi-siamo/",
+      "seoTitle": "Chi Siamo - GAV srls - Imprese edili a Lombardia",
+      "description": "GAV SRLS è un’impresa operativa in Lombardia specializzata nel settore dell’edilizia e nei lavori di muratura, con un’offerta di servizi pensata per rispondere alle diverse esigenze di privati, aziende e proprietari di immobili.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Chi Siamo"
+        },
+        {
+          "type": "image",
+          "image": "bricklayer-wearing-hard-hat-working-on-brick-wall"
+        },
+        {
+          "type": "heading",
+          "level": 6,
+          "text": "Costruiamo Qualità, Realizziamo Progetti"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GAV SRLS"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "GAV SRLS è un’impresa operativa in Lombardia specializzata nel settore dell’edilizia e nei lavori di muratura, con un’offerta di servizi pensata per rispondere alle diverse esigenze di privati, aziende e proprietari di immobili. La nostra attività nasce con l’obiettivo di offrire interventi eseguiti con serietà, attenzione ai dettagli e cura in ogni fase del lavoro.",
+            "Nel settore delle costruzioni e delle ristrutturazioni, affidarsi a professionisti competenti significa poter contare su un servizio organizzato e su una gestione attenta delle diverse lavorazioni. GAV SRLS segue i propri clienti con un approccio concreto, dalla valutazione delle necessità iniziali fino alla realizzazione dell’intervento, proponendo soluzioni funzionali e adeguate alle caratteristiche di ogni progetto."
+          ]
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ci occupiamo di lavori di muratura, coperture e interventi edili chiavi in mano, mettendo a disposizione esperienza e professionalità per realizzare lavori destinati a durare nel tempo. Ogni intervento viene affrontato con particolare attenzione alla qualità delle lavorazioni, alla precisione e al rispetto delle esigenze del cliente.",
+            "La nostra presenza sul territorio lombardo ci permette di rivolgerci a una clientela diversificata, offrendo un servizio orientato alla puntualità e alla disponibilità. Crediamo che un buon risultato sia il frutto di una comunicazione chiara, di un’organizzazione efficace e di una costante attenzione alle necessità del cliente."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "La nostra missione"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "La missione di GAV SRLS è offrire servizi edili affidabili e professionali, accompagnando ogni cliente nella realizzazione del proprio progetto. Dalla muratura alle coperture, fino agli interventi chiavi in mano, lavoriamo per garantire soluzioni curate e funzionali."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Richiedi un Preventivo",
+          "href": "/contatti"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Perché scegliere GAV SRLS"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Scegliere GAV SRLS significa affidarsi a un’impresa attenta alla qualità del lavoro, alla precisione e alla soddisfazione del cliente."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Mettiamo impegno in ogni intervento e affrontiamo ogni progetto con un approccio professionale e responsabile.",
+            "Siamo disponibili dal lunedì al venerdì dalle 07:00 alle 18:00 e il sabato dalle 07:00 alle 12:00, per offrire ai nostri clienti un servizio organizzato e facilmente accessibile."
+          ]
+        }
+      ]
+    },
+    "servizi": {
+      "oldUrl": "/servizi/",
+      "seoTitle": "Servizi - GAV srls - Imprese edili a Lombardia",
+      "description": "Ci occupiamo di lavori di muratura, coperture e interventi edili chiavi in mano, mettendo a disposizione esperienza e professionalità per realizzare lavori destinati a durare nel tempo",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Servizi"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "GAV SRLS"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "La nostra attività nasce con l’obiettivo di offrire interventi eseguiti con serietà, attenzione ai dettagli e cura in ogni fase del lavoro."
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Nel settore delle costruzioni e delle ristrutturazioni, affidarsi a professionisti competenti significa poter contare su un servizio organizzato e su una gestione attenta delle diverse lavorazioni. GAV SRLS segue i propri clienti con un approccio concreto, dalla valutazione delle necessità iniziali fino alla realizzazione dell’intervento, proponendo soluzioni funzionali e adeguate alle caratteristiche di ogni progetto."
+          ]
+        }
+      ]
+    },
+    "galleria": {
+      "oldUrl": "/galleria/",
+      "seoTitle": "Galleria - GAV srls -",
+      "description": "La nostra attività nasce con l’obiettivo di offrire interventi eseguiti con serietà, attenzione ai dettagli e cura in ogni fase del lavoro.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Galleria"
+        },
+        {
+          "type": "gallery",
+          "images": [
+            "cantiere-12-37-17-1",
+            "cantiere-12-37-17-2",
+            "cantiere-12-37-17-3",
+            "cantiere-12-37-17-4",
+            "cantiere-12-37-17-5",
+            "cantiere-12-37-17",
+            "cantiere-12-37-18-1",
+            "cantiere-12-37-18",
+            "cantiere-12-37-19"
+          ]
+        }
+      ]
+    },
+    "contatti": {
+      "oldUrl": "/contatti/",
+      "seoTitle": "Contatti - GAV srls",
+      "description": "La nostra attività nasce con l’obiettivo di offrire interventi eseguiti con serietà, attenzione ai dettagli e cura in ogni fase del lavoro.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Contatti"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GAV SRLS"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "La nostra attività nasce con l’obiettivo di offrire interventi eseguiti con serietà, attenzione ai dettagli e cura in ogni fase del lavoro."
+          ]
+        },
+        {
+          "type": "feature",
+          "text": "Indirizzo Lombardia, Italia"
+        },
+        {
+          "type": "feature",
+          "text": "Email GAV.S.R.L.S99@GMAIL.COM"
+        },
+        {
+          "type": "feature",
+          "text": "Telefono +393664159881"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Richiedi un preventivo gratuito"
+        }
+      ]
+    }
+  },
+  "services": {
+    "lavori-chiavi-in-mano": {
+      "oldUrl": "/lavori-chiavi-in-mano/",
+      "title": "Lavori Chiavi in Mano",
+      "excerpt": "GAV SRLS propone lavori edili chiavi in mano in Lombardia, offrendo un servizio pensato per chi desidera affidare la gestione del proprio progetto a un unico interlocutore. Questa soluzione permette di organizzare le diverse fasi dell’intervento in maniera coordinata, dalla pianificazione iniziale fino alla conclusione dei lavori. Un progetto chiavi in mano richiede una buona",
+      "date": "2026-09-24T09:39:05",
+      "seoTitle": "Lavori Chiavi in Mano Lombardia - GAV srls",
+      "description": "GAV SRLS propone lavori edili chiavi in mano in Lombardia, offrendo un servizio pensato per chi desidera affidare la gestione del proprio progetto a un unico interlocutore.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Lavori Chiavi in Mano"
+        },
+        {
+          "type": "image",
+          "image": "construction-site-with-plans-hard-hat-and-cranes"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "GAV SRLS propone lavori edili chiavi in mano in Lombardia, offrendo un servizio pensato per chi desidera affidare la gestione del proprio progetto a un unico interlocutore. Questa soluzione permette di organizzare le diverse fasi dell’intervento in maniera coordinata, dalla pianificazione iniziale fino alla conclusione dei lavori.",
+            "Un progetto chiavi in mano richiede una buona organizzazione e un’attenta gestione delle diverse lavorazioni. Per questo GAV SRLS segue il progetto con un approccio professionale, prestando attenzione alle esigenze del cliente e alle caratteristiche dell’immobile.",
+            "Il nostro servizio può essere rivolto a interventi di costruzione, ristrutturazione e riqualificazione che necessitano di diverse lavorazioni edili. L’obiettivo è semplificare la gestione del progetto, coordinando le attività necessarie e mantenendo un dialogo costante con il cliente."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Un unico punto di riferimento"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Affidarsi a un’impresa per un lavoro chiavi in mano significa avere un unico punto di riferimento per la gestione dell’intervento. GAV SRLS organizza le attività con attenzione, cercando di garantire continuità tra le diverse fasi del progetto.",
+            "Ogni intervento viene valutato in base alle esigenze specifiche del cliente e alle caratteristiche dell’immobile. Dalla fase iniziale alla realizzazione, poniamo attenzione alla precisione delle lavorazioni, all’organizzazione e alla cura dei dettagli.",
+            "Operiamo in Lombardia e ci rivolgiamo a privati, aziende e proprietari di immobili che desiderano realizzare un progetto edile con un servizio professionale e coordinato."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Il tuo progetto, seguito con professionalità"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "La nostra filosofia è semplice: ascoltare le esigenze del cliente, organizzare il lavoro e seguire ogni fase con serietà. Un progetto chiavi in mano permette di affrontare i lavori con maggiore coordinamento, riducendo la necessità per il cliente di gestire separatamente le diverse attività.",
+            "GAV SRLS è a disposizione per valutare progetti e interventi edili in Lombardia e individuare la soluzione più adatta alle necessità del cliente."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Richiedi un Preventivo",
+          "href": "/contatti"
+        }
+      ]
+    },
+    "coperture": {
+      "oldUrl": "/coperture/",
+      "title": "Coperture",
+      "excerpt": "La copertura rappresenta un elemento fondamentale per la protezione e la funzionalità di qualsiasi edificio. GAV SRLS realizza lavori di copertura in Lombardia, mettendo a disposizione professionalità e attenzione per interventi destinati a mantenere nel tempo le caratteristiche dell’immobile. Un sistema di copertura correttamente realizzato contribuisce a proteggere l’edificio dagli agenti atmosferici e a preservarne",
+      "date": "2026-09-24T09:37:47",
+      "seoTitle": "Coperture Lombardia - GAV srls",
+      "description": "GAV SRLS realizza lavori di copertura in Lombardia, mettendo a disposizione professionalità e attenzione per interventi destinati a mantenere nel tempo le caratteristiche dell’immobile.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Coperture"
+        },
+        {
+          "type": "image",
+          "image": "roofer-laying-asphalt-shingles-on-a-house-roof"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "La copertura rappresenta un elemento fondamentale per la protezione e la funzionalità di qualsiasi edificio. GAV SRLS realizza lavori di copertura in Lombardia, mettendo a disposizione professionalità e attenzione per interventi destinati a mantenere nel tempo le caratteristiche dell’immobile.",
+            "Un sistema di copertura correttamente realizzato contribuisce a proteggere l’edificio dagli agenti atmosferici e a preservarne la struttura. Per questo motivo, ogni intervento deve essere affrontato con attenzione, valutando le caratteristiche dell’edificio, le condizioni della copertura esistente e le necessità specifiche del progetto.",
+            "GAV SRLS si occupa di interventi relativi alle coperture nell’ambito di lavori edili e di ristrutturazione, organizzando le attività in funzione delle esigenze del cliente. Lavoriamo con un approccio preciso e professionale, prestando particolare attenzione alla corretta esecuzione delle diverse fasi operative.",
+            "La manutenzione o il rifacimento di una copertura può essere necessario in presenza di deterioramento, infiltrazioni o altre problematiche legate all’usura. Intervenire in modo adeguato permette di preservare l’edificio e di migliorare la funzionalità della struttura."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Professionalità per i lavori di copertura"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ogni progetto viene valutato in relazione alle caratteristiche dell’immobile e alle esigenze espresse dal cliente. GAV SRLS punta a offrire un servizio organizzato, dalla valutazione iniziale fino alla conclusione delle lavorazioni.",
+            "La nostra attività è rivolta a privati, aziende e proprietari di immobili che necessitano di interventi professionali sulle coperture. Operiamo in Lombardia, offrendo disponibilità e attenzione durante tutte le fasi del lavoro.",
+            "Scegliere GAV SRLS significa affidarsi a un’impresa attenta alla qualità delle lavorazioni e alla soddisfazione del cliente. Per un intervento di copertura, manutenzione o ristrutturazione, è possibile contattarci per valutare le esigenze specifiche dell’immobile e definire insieme la soluzione più adatta."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Richiedi un Preventivo",
+          "href": "/contatti"
+        }
+      ]
+    },
+    "imprese-edili-e-ditte-specializzate-in-lavori-di-muratura": {
+      "oldUrl": "/imprese-edili-e-ditte-specializzate-in-lavori-di-muratura/",
+      "title": "Imprese edili e ditte specializzate in lavori di muratura",
+      "excerpt": "GAV SRLS offre servizi di muratura e lavori edili in Lombardia, rivolgendosi a privati, aziende e proprietari di immobili che necessitano di interventi professionali e accurati. I lavori di muratura rappresentano una parte fondamentale di numerosi progetti di costruzione, ristrutturazione e manutenzione e richiedono precisione, esperienza e attenzione alle caratteristiche dell’immobile. Ci occupiamo di diverse",
+      "date": "2026-09-15T14:52:07",
+      "seoTitle": "Imprese edili e ditte specializzate in lavori di muratura Lombardia - GAV srls",
+      "description": "GAV SRLS offre servizi di muratura e lavori edili in Lombardia, rivolgendosi a privati, aziende e proprietari di immobili che necessitano di interventi professionali e accurati.",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Imprese edili e ditte specializzate in lavori di muratura"
+        },
+        {
+          "type": "image",
+          "image": "bricklayer-wearing-hard-hat-working-on-brick-wall"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "GAV SRLS offre servizi di muratura e lavori edili in Lombardia, rivolgendosi a privati, aziende e proprietari di immobili che necessitano di interventi professionali e accurati. I lavori di muratura rappresentano una parte fondamentale di numerosi progetti di costruzione, ristrutturazione e manutenzione e richiedono precisione, esperienza e attenzione alle caratteristiche dell’immobile.",
+            "Ci occupiamo di diverse tipologie di interventi edili, valutando le esigenze specifiche del cliente e le condizioni della struttura prima di procedere con le lavorazioni. L’obiettivo è realizzare interventi funzionali, ordinati e curati nei dettagli, prestando attenzione alla qualità dell’esecuzione.",
+            "I nostri servizi possono comprendere interventi di muratura, opere edili, manutenzione e lavori di ristrutturazione, adattandosi alle necessità del progetto. Ogni lavorazione viene organizzata con attenzione per garantire un risultato coerente con le richieste del cliente.",
+            "Affidarsi a una ditta specializzata significa poter contare su un interlocutore professionale durante le diverse fasi dell’intervento. GAV SRLS pone particolare attenzione alla comunicazione con il cliente, alla puntualità e alla corretta organizzazione delle attività.",
+            "Operiamo in Lombardia, offrendo un servizio rivolto a chi cerca un’impresa edile seria per lavori di muratura e interventi di diversa natura. La nostra priorità è affrontare ogni progetto con professionalità e disponibilità, cercando soluzioni adeguate alle esigenze dell’immobile."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Precisione e attenzione in ogni lavorazione"
+        },
+        {
+          "type": "text",
+          "paragraphs": [
+            "Ogni lavoro viene affrontato con cura, dalla preparazione dell’intervento fino alle fasi finali. La nostra esperienza nel settore ci permette di gestire le diverse esigenze legate ai lavori edili con un approccio pratico e orientato al risultato.",
+            "Se hai bisogno di un’impresa per lavori di muratura in Lombardia, GAV SRLS è disponibile per valutare le tue necessità e individuare la soluzione più adatta al progetto."
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Richiedi un Preventivo",
+          "href": "/contatti"
+        }
+      ]
+    }
+  },
+  "legacyLegal": {
+    "informativa-trattamento-dati": {
+      "oldUrl": "/informativa-trattamento-dati/",
+      "title": "Informativa trattamento dati",
+      "paragraphs": [
+        "Informativa ex art. 13 del Regolamento UE 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016 (Regolamento generale sulla protezione dei dati c.d. “GDPR”)",
+        "I. Titolarità e tipi di dati",
+        "Ai sensi dell’art. 13 del GDPR, Local web con sede in Bolzano, alla Vicolo Gumer, 9, in qualità di titolare del trattamento (di seguito denominata “il Titolare”), La informa che, tramite questo modulo, procederà alla raccolta dei dati personali da Lei direttamente rilasciati.",
+        "Il Titolare ha designato quale proprio responsabile della protezione dei dati (c.d. data protection officer/DPO) ai sensi dell’articolo 37 GDPR, il Sig. Orjon Nallbati domiciliato per la carica presso la sede sociale e contattabile al seguente indirizzo e-mai orjon.nallbati@onlawoffice.com.",
+        "II. Finalità d’uso",
+        "I suoi dati personali come sopra descritti e da lei forniti, sono raccolti e utilizzati per le seguenti finalità connesse e strumentali all’attività di Local Web e quindi:",
+        "Consentire l’esecuzione delle obbligazioni oggetto del contratto, in particolare, in relazione alla segnalazione di disservizi e alla gestione dei reclami provenienti da parte dei clienti, mediante compilazione del form;",
+        "Consentire l’evasione delle richieste di contatto e/o di nuovi servizi, inviate dall’utente interessato mediante compilazione del form.",
+        "Per la finalità di cui ai punti II.1 e II.2 per l’utilizzo dei dati non è richiesto il suo consenso.",
+        "III. Modalità d’uso e conservazione",
+        "I suoi dati sono utilizzati con mezzi elettronici e conservati su supporti elettronici o anche a mezzo di strumenti cartacei.",
+        "IV. Ambito di circolazione dei dati",
+        "In ambito riconducibile al medesimo Titolare",
+        "A. I dati possono essere utilizzati da personale di Local web o di Aziende terze cui è stato assegnato uno specifico ruolo di responsabile del trattamento e a cui sono state impartite adeguate istruzioni operative.",
+        "All’interno del medesimo gruppo societario per fini contrattuali o contabili",
+        "B. Inoltre, i dati possono essere trasmessi anche alle altre società del Gruppo, per adempiere a specifici obblighi di legge o per fini contrattuali e contabili, eventualmente anche residenti fuori dall’Unione europea con rapporti regolati da specifiche clausole contrattuali modello, come indicato dal Garante privacy.",
+        "V. Trasferimento di dati all’estero e diffusione",
+        "Dato il carattere internazionale delle attività di Local web, i suoi dati potranno essere trasmessi all’estero e trattati da soggetti, comunque rientranti fra le categorie citate al punto IV. di cui sopra, situati in paesi extra-Ue per le finalità descritte al punto II che precede.",
+        "Trasferimento all’estero senza comunicazione",
+        "Dato il carattere internazionale delle attività di Local web, i suoi dati potranno essere trasmessi all’estero e trattati da soggetti, comunque rientranti fra le categorie citate al punto IV di cui sopra, situati in paesi extra-Ue per l’esecuzione di attività strumentali; in tal caso, tali entità agiscono in qualità di responsabili del trattamento e l’attività è oggetto di specifiche garanzie a protezione dei dati personali mediante l’adozione di clausole contrattuali modello, come indicato dal Garante privacy.",
+        "Non diffusione",
+        "I suoi dati personali non sono oggetto di diffusione.",
+        "VI. Diritti",
+        "In relazione al trattamento dei suoi dati personali, il Titolare La informa che il periodo di conservazione dei predetti dati non eccede la durata necessaria a perseguire le finalità per le quali i dati sono raccolti e successivamente trattati, ma non più di due mesi. In costanza di trattamento, Ella può esercitare, in qualunque momento, i seguenti diritti:",
+        "ottenere la conferma dell’esistenza o meno dei medesimi dati e, in caso positivo,",
+        "conoscerne il contenuto e l’origine,",
+        "verificarne l’esattezza chiedere la rettifica dei dati inesatti, l’integrazione dei dati incompleti o l’aggiornamento dei dati vetusti, oppure",
+        "ottenerne la limitazione del trattamento, ove ricorra una delle ipotesi previste dall’articolo 18 GDPR;",
+        "chiedere la cancellazione dei dati trattati in violazione di legge, ovvero in presenza di una delle altre condizioni previste dall’articolo 17, comma 1, lett. a), b), c), e) ed f) GDPR",
+        "opporsi in ogni caso, per motivi legittimi, al loro trattamento, ovvero di opposi al trattamento negli altri casi previsti dall’articolo 21, commi 2 e 3 e 22 GDPR;",
+        "di ottenere il rilascio dei dati personali oggetto di trattamento in un formato compatibile con le applicazioni informatiche standard, per permetterne il trasferimento su altre piattaforme di Sua scelta, senza frapporre impedimenti alla trasmissione diretta dei dati trattati ad altro Titolare del trattamento, ove tale trasmissione diretta sia tecnicamente fattibile [d. diritto alla portabilità dei dati];",
+        "Le richieste relative all’esercizio dei predetti diritti, vanno rivolte al Titolare:",
+        "via e-mail, all’indirizzo: privacy@localweb.it",
+        "via fax, al n.: 0239195817",
+        "via posta, all’indirizzo: Vicolo Gumer, 9, Bolzano.",
+        "Nel caso di mancato o parziale riscontro del Titolare alle predette richieste, Ella avrà diritto a proporre reclamo o ricorso al Garante per la protezione dei dati personali nei termini e secondo le modalità previste dalla normativa Europea e nazionale applicabile.",
+        "Data ultima revisione: 30-09-2026"
+      ]
+    },
+    "informativa-sul-trattamento-dei-dati-personali": {
+      "oldUrl": "/informativa-sul-trattamento-dei-dati-personali/",
+      "title": "Informativa sul trattamento dei dati personali",
+      "paragraphs": [
+        "Privacy Policy",
+        "La presente Policy ha lo scopo di descrivere le modalità di gestione in riferimento al trattamento dei dati personali degli utenti/visitatori di questo sito web, raggiungibile all’indirizzo privacy@localweb.it",
+        "Raccomandiamo di leggere attentamente questa privacy policy prima della fornitura dei dati stessi.",
+        "Questa comunicazione è fornita in conformità alla normativa europea di cui al Regolamento UE n 2016/679 (GDPR), artt. 13 e 14.",
+        "Titolarità",
+        "Titolare del trattamento è Local Web srl, con sede in Bolzano, Vicolo Gumer, 9 (di seguito indicata semplicemente come “Titolare”).",
+        "La lista aggiornata dei responsabili del trattamento e delle consociate del gruppo è disponibile inoltrando richiesta a info@localweb.it.",
+        "Ambito oggetto di questa policy",
+        "Questa Privacy Policy riguarda il presente sito web e non anche ulteriori siti web che non siano di pertinenza del Titolare eventualmente consultati dall’utente tramite navigazione dei link.",
+        "Policy e informativa",
+        "Il sito web svolge una funzione prevalentemente informativa delle attività svolte da Local Web srl, pertanto, nella maggior parte dei casi, non è prevista raccolta di dati personali dal navigatore. In taluni casi, come per la sezione “contattaci”, al fine di consentire la trasmissione di richieste di informazioni o servizi, si richiede all’utente di compilare un modulo di raccolta dati. In questi casi, viene fornita l’informativa privacy che precisa l’uso dei dati e le altre indicazioni richieste dalla legge. Raccomandiamo di leggere queste informative prima di fornire i dati.",
+        "In aggiunta, in limitati casi in cui si rendesse necessario raccogliere informazioni personali per altri fini, questo verrà chiaramente evidenziato nelle informative di legge, al fine di consentire trasparenza e consapevolezza all’utente.",
+        "Tali informative sono dirette a definire limiti e modalità del trattamento dei dati di ciascun servizio, in base alle quali il visitatore potrà esprimere liberamente il proprio consenso (se necessario) ed autorizzare eventualmente la raccolta dei dati ed il loro successivo utilizzo.",
+        "Dati di navigazione",
+        "I sistemi informatici e le procedure software preposte al funzionamento di questo sito web acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet.",
+        "In questa categoria di dati rientrano: gli indirizzi IP, il tipo di browser utilizzato, il sistema operativo, il nome di dominio e gli indirizzi di siti web dai quali è stato effettuato l’accesso o l’uscita, le informazioni sulle pagine visitate dagli utenti all’interno del sito, l’orario d’accesso, la permanenza sulla singola pagina, l’analisi di percorso interno ed altri parametri relativi al sistema operativo e all’ambiente informatico dell’utente.",
+        "Tali dati di carattere tecnico/informatico sono raccolti ed utilizzati esclusivamente in maniera aggregata e non immediatamente identificativa; essi potrebbero essere utilizzati per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito o su richiesta della pubblica autorità.",
+        "Cookie",
+        "In merito all’installazione di cookie da parte di questo sito web si rinvia alla Cookie Policy.",
+        "Redirect verso siti esterni",
+        "Da questo sito web è possibile collegarsi mediante appositi link verso altri siti web di società di terzi.",
+        "Local Web srl declina qualsiasi responsabilità in merito all’eventuale gestione di dati personali da parte di siti terzi e in ordine alla gestione delle credenziali di autenticazione fornite da soggetti terzi.",
+        "Modalità del trattamento e conservazione dei dati",
+        "Il trattamento dei dati personali viene effettuato prevalentemente utilizzando procedure e supporti elettronici per il tempo strettamente necessario a conseguire gli scopi per i quali i dati sono stati raccolti. L’utente, comunque, ha diritto di ottenere la cancellazione dei propri dati in presenza di motivi legittimi.",
+        "Facoltatività del conferimento dati",
+        "La fornitura dei dati personali richiesti all’interessato, se non specificato diversamente, è facoltativa, tuttavia il loro mancato conferimento può comportare l’impossibilità di ottenere quanto richiesto ovvero di eseguire l’attività indicata.",
+        "Luogo del trattamento dati",
+        "I trattamenti connessi ai servizi web di questo sito hanno luogo presso la società Local Web Srl che provvede alla gestione del relativo server. I dati personali sono curati solo da personale tecnico di tale azienda, appositamente incaricato del trattamento, oppure da eventuali incaricati di occasionali operazioni di manutenzione.",
+        "Ambito di circolazione dei dati e diffusione dei dati",
+        "Ai dati personali acquisiti tramite questo sito web vi accedono unicamente soggetti che agiscono per conto del Titolare, appositamente designati come data manager, coordinatori o incaricati e preposti alla gestione del servizio richiesto; i medesimi dati non sono diffusi.",
+        "Informazioni più dettagliate sui nominativi dei ruoli privacy potranno essere richieste scrivendo a info@localweb.it",
+        "Flussi esteri di dati",
+        "Data la natura internazionale delle attività di Local Web srl, i dati possono essere inviati all’estero ed elaborati, ancora ai soli fini di cui sopra, da società del Gruppo Sestante Holding, situate nei paesi terzi.",
+        "In questi casi, la trasmissione di dati all’estero è soggetta a specifiche garanzie per la protezione dei dati personali attraverso l’adozione di clausole contrattuali tipo sulla protezione dei dati, approvate dalla Commissione Europea, o di analoghe garanzie.",
+        "Diritti per la tutela dei dati personali",
+        "I soggetti cui si riferiscono i dati personali hanno il diritto in qualunque momento di ottenere la conferma dell’esistenza o meno dei medesimi dati e di conoscerne il contenuto e l’origine, verificarne l’esattezza o chiederne l’integrazione o l’aggiornamento, oppure la rettificazione.",
+        "Inoltre, si ha il diritto di chiedere la cancellazione, la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, nonché di opporsi in ogni caso, per motivi legittimi, al loro trattamento.",
+        "Le richieste vanno rivolte a orjon.nallbati@onlawoffice.com.",
+        "Modifiche alla policy",
+        "L’eventuale entrata in vigore di nuove normative di settore, come anche il costante esame ed aggiornamento dei servizi all’utente, potrebbe comportare la necessità di variare le modalità di trattamento dei dati personali. È’ pertanto possibile che la nostra policy subisca modifiche nel tempo ed invitiamo, pertanto, il visitatore a consultare periodicamente questa pagina. A questo scopo il documento di policy evidenzia la data di aggiornamento.",
+        "Data di Redazione: 24-05-2018",
+        "Ultimo Aggiornamento: 30-09-2026"
+      ]
+    },
+    "cookie-policy": {
+      "oldUrl": "/cookie-policy/",
+      "title": "Cookie Policy",
+      "paragraphs": [
+        "I cookie che utilizziamo",
+        "Introduzione",
+        "Questa policy vuole spiegare come questo sito web utilizza i cookie al fine di fornire informazioni chiare e rilevanti per permettere agli utenti di operare le proprie scelte ai fini del controllo di cosa succede quando si accede al sito. La policy usa il termine ‘cookie’ per riferirsi a file di informazioni che memorizzano, sul computer dell’utente, la navigazione effettuata in Internet per velocizzare e ottimizzare la ricerca e a tecnologie simili contemplate dalla legge (quali, ad esempio, Local Shared Objects, comunemente indicati come “flash cookie”, web beacon o bug, tra cui clear gif trasparenti). Le informazioni raccolte riguardano dati che potrebbero permettere di identificare gli utenti / visitatori mediante l’associazione ed elaborazione con dati detenuti da terzi (quali, ad esempio, i numeri degli indirizzi IP, nomi di domini dei computer utilizzati da persone che si collegano al sito web). Questi dati vengono utilizzati solo per fini statistici.",
+        "Il presente documento è parte integrante e sostanziale della Privacy Policy e della informativa in essa contenuta rilasciata anche ai sensi del Regolamento UE n. 2016/679 (GDPR). Si invita, pertanto, alla lettura di tale documento.",
+        "Legge applicabile",
+        "La materia è regolata dalla Direttiva Europea 2002/58 /CE, successivamente modificata dalla direttiva 2009/136 /CE e recepita dalle legislazioni nazionali degli Stati membri dell’Unione Europea, che richiede di ottenere il consenso per i cookie e tecnologie simili.",
+        "Cos’è un cookie",
+        "Un cookie è un piccolo file di testo, in genere di lettere e numeri, scaricati su un dispositivo quando l’utente accede al sito web. I cookie vengono poi inviati al sito originario a ogni visita successiva. I cookie sono utili perché consentono a un sito web di riconoscere il dispositivo di un utente.",
+        "L’uso di cookie e di tecnologie simili è da tempo un fattore ordinario in quanto i cookie sono importanti nella fornitura di molti servizi online. L’utilizzo di queste tecnologie non è, quindi, vietato dalla legge ma richiede che l’utente venga informato sui cookie e gli venga offerta la possibilità di accettarli o meno.",
+        "Cookie di diverso tipo",
+        "Cookie di sessione e persistenti",
+        "I cookie possono scadere alla fine di una sessione del browser (cioè, da quando un utente apre la finestra del browser sino a quando si esce dal browser) oppure possono essere conservati più a lungo.",
+        "Cookie di sessione, consentono ai siti web di collegare le azioni di un utente durante una sessione del browser. Essi possono essere utilizzati per una varietà di scopi, come ricordare ciò che un utente ha messo nel proprio carrello mentre naviga in un sito. Essi potrebbero essere utilizzati anche per la sicurezza quando un utente accede a internet banking o per facilitare l’uso di web-mail. Questi cookie di sessione scadono dopo una sessione del browser.",
+        "L’uso dei cosiddetti cookie di sessione (che, in ogni caso, non vengono memorizzati in modo persistente sul computer dell’utente e sono cancellati automaticamente non appena il browser viene chiuso) è strettamente limitato ai fini della trasmissione di dati (costituito da numeri casuali generati dal server) che identificano la sessione specifica e sono necessari per consentire l’esplorazione sicura ed efficiente. I cd cookie di sessione utilizzati in questo sito evitano il ricorso ad altre tecniche informatiche potenzialmente pregiudizievoli per la riservatezza della navigazione in rete degli utenti.",
+        "Cookie persistenti, vengono memorizzati sul dispositivo degli utenti tra distinte sessioni del browser e consentono di ricordare le azioni dell’utente in un sito. I cookie persistenti possono essere utilizzati per una varietà di scopi, tra cui ricordare le preferenze e le scelte degli utenti quando si utilizza un sito (o in alcuni casi attraverso diversi siti web).",
+        "Cookie di “prima” e di “terza parte”, La circostanza che un cookie sia di ‘prima’ o di ‘terza parte’ è strettamente connessa al sito web o al dominio che utilizza quel determinato cookie. I cookie di “prima parte”, in sostanza, sono i cookie impostati dal medesimo sito web visitato dall’utente, cioè il sito visualizzato nella finestra URL: nel nostro caso, i cookie impostati da https://gavsrls.it I cookie di “terze parti” sono i cookie che vengono impostati da un dominio diverso da quello visitato dall’utente: cioè i cookie che sono impostati da siti web diversi da https://gavsrls.it Quando avete visitato https://gavsrls.it Google Analytics ha impostato il cookie chiamato ‘_ga’ attraverso il dominio gstatic.com , questo specifico cookie è un cookie di “terza parte”.",
+        "Titolarità del trattamento",
+        "Local web, come identificata nella Privacy policy, è titolare del trattamento dei, e risponde per i soli cookie propri, cioè di “prima parte”; diversamente, i cookie di “terze parti” rientrano nella titolarità delle aziende di rispettiva pertinenza, individuate secondo la tabella contenuta in questo documento.",
+        "Consenso per i cookie",
+        "Alcuni cookie sono strettamente necessari per il corretto funzionamento di Internet e non richiedono il consenso dell’utente, come ad esempio quelli per garantire che il contenuto di una pagina venga caricata in modo rapido ed efficace, la distribuzione del carico di lavoro tra diversi computer oppure quelli volti a garantire la sicurezza.",
+        "Altri cookie sono pur sempre ragionevolmente necessari o importanti, ma non sono strettamente indispensabili e, quindi, richiedono il consenso dell’utente.",
+        "Questo sito mette in atto diverse tecniche per la raccolta del consenso dell’utente: una modalità è la selezione della specifica casella sul banner cookie pubblicato sulla pagina di accesso al sito e che dà evidenza dell’uso di cookie.",
+        "Le impostazioni del browser rappresentano un altro mezzo per il rilascio del consenso o, al contrario, per il rifiuto dei cookie; l’utente può impostare il browser affinché venga avvertito della presenza di cookie, consentendogli di decidere se accettare i cookie o meno. È anche possibile rifiutare automaticamente tutti i cookie, attivando l’apposita opzione nel browser.",
+        "Ciascun browser pone in evidenza istruzioni allo scopo.",
+        "Revoca del consenso",
+        "Il vostro consenso all’uso dei cookie può essere revocato in qualsiasi momento, anche se la revoca potrebbe avere un impatto sulla funzionalità del sito web.",
+        "Disabilitazione cookie",
+        "I cookies sono collegati al browser utilizzato e possono essere disabilitati direttamente dal browser, così rifiutando/revocando il consenso all’uso dei cookies. Occorre tenere presente che la disabilitazione dei cookies potrebbe impedire il corretto utilizzo di alcune funzioni del sito stesso. Le istruzioni per la disabilitazione dei cookies si trovano alle seguenti pagine web:",
+        "Microsoft Internet Explorer",
+        "Google Chrome",
+        "Apple Safari",
+        "Mozilla Firefox",
+        "Opera",
+        "Quali cookie utilizziamo",
+        "Quando gestisce il proprio sito web, Il sito utilizza i cookie per offrire servizi, per migliorare l’esperienza degli utenti, nonché per sviluppare statistiche aggregate sui dati raccolti per vari motivi.",
+        "Questi cookie ci permettono di distinguere l’utente del sito da altri, ci aiutano a fornire una buona esperienza quando si naviga il nostro sito ed a migliorare il nostro sito.",
+        "I cookies che utilizziamo sono “tecnici” e “analitici”. Essi ci permettono di riconoscere e contare il numero di visitatori e di esaminare come i visitatori navigano il sito web quando lo si utilizza. Questo ci aiuta a migliorare il modo in cui il nostro sito funziona, per esempio facendo in modo che gli utenti trovino facilmente quello di cui hanno bisogno. Per saperne di più sui singoli cookie di analisi che utilizziamo e come riconoscerli si rinvia alla consultazione della tabella sottostante.",
+        "Più specificamente, questo sito internet utilizza questi tipi di cookie, come elencato nella tabella seguente:",
+        "Cookie tecnici: necessari per la navigazione all’interno del sito e per poter utilizzare alcune funzioni (ad esempio, per spostarsi da una pagina all’altra, ecc).",
+        "Cookie analitici: per l’analisi statistica degli accessi al sito. Le informazioni sono raccolte su base aggregata.",
+        "Alcuni cookie utilizzati sono di terze parti. Il processo per ottenere il consenso per questi cookie è più complesso, ma facciamo tutto il possibile per fornire le giuste informazioni agli utenti e per consentire loro di effettuare scelte informate su ciò che è memorizzato sul proprio dispositivo.",
+        "Per questa ragione la società fornisce gli indirizzi di tali terze parti presso cui rivolgersi o, in mancanza, indica qui le modalità per rimuovere i cookie che non si vuole accettare.",
+        "Ambito di circolazione e conservazione dei dati",
+        "I dati sui contatti web non vengono conservati per un periodo più lungo di sette giorni, salvo eventuali accertamenti di reati informatici ai danni del sito. Nessun dato derivante dal servizio web verrà comunicato o diffuso a destinatari non specificati.",
+        "Aggiornamento della cookie policy",
+        "La politica sui cookie del nostro Sito può essere periodicamente aggiornata, per cui si consiglia di consultare questo documento ogni volta che si accede al Sito, al fine di essere correttamente informati su come e perché usiamo i cookie.",
+        "Ulteriori informazioni sui cookie",
+        "Per ulteriori informazioni sui cookie installati tramite questo Sito, è possibile contattare il seguente indirizzo e-mail: info@localweb.it",
+        "Data ultima revisione",
+        "Data ultima revisione: 30-09-2026"
+      ]
+    }
+  },
+  "business": {
+    "name": "GAV SRLS",
+    "phone": "+393664159881",
+    "phoneDisplay": "+39 366 415 9881",
+    "email": "gav.s.r.l.s99@gmail.com",
+    "vat": "03010720187",
+    "area": "Lombardia, Italia",
+    "hoursText": "Siamo disponibili dal lunedì al venerdì dalle 07:00 alle 18:00 e il sabato dalle 07:00 alle 12:00, per offrire ai nostri clienti un servizio organizzato e facilmente accessibile.",
+    "hours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "label": "Lunedì a venerdì",
+        "open": "07:00",
+        "close": "18:00"
+      },
+      {
+        "days": [
+          6
+        ],
+        "label": "Sabato",
+        "open": "07:00",
+        "close": "12:00"
+      }
+    ],
+    "tagline": "GAV SRLS: professionalità e competenza nel settore edile.",
+    "copyright": "Copyrights © 2026 GAV SRLS P.Iva 03010720187"
+  },
+  "images": {
+    "construction-worker-building-brick-wall-on-sunny-d": {
+      "id": "construction-worker-building-brick-wall-on-sunny-d",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/09/construction-worker-building-brick-wall-on-sunny-d-2026-03-26-07-28-04-utc-scaled.jpg",
+      "kind": "stock",
+      "alt": "",
+      "src": "/img/construction-worker-building-brick-wall-on-sunny-d.webp",
+      "thumb": "/img/construction-worker-building-brick-wall-on-sunny-d-800.webp",
+      "width": 1920,
+      "height": 1280
+    },
+    "construction-site-with-plans-hard-hat-and-cranes": {
+      "id": "construction-site-with-plans-hard-hat-and-cranes",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/09/construction-site-with-plans-hard-hat-and-cranes-2026-09-22-21-35-52-utc-scaled.jpg",
+      "kind": "stock",
+      "alt": "",
+      "src": "/img/construction-site-with-plans-hard-hat-and-cranes.webp",
+      "thumb": "/img/construction-site-with-plans-hard-hat-and-cranes-800.webp",
+      "width": 1920,
+      "height": 1920
+    },
+    "stadium-construction-site-with-blue-crane-urban-ar": {
+      "id": "stadium-construction-site-with-blue-crane-urban-ar",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/09/stadium-construction-site-with-blue-crane-urban-ar-2026-09-22-00-22-37-utc-scaled.jpg",
+      "kind": "stock",
+      "alt": "",
+      "src": "/img/stadium-construction-site-with-blue-crane-urban-ar.webp",
+      "thumb": "/img/stadium-construction-site-with-blue-crane-urban-ar-800.webp",
+      "width": 1920,
+      "height": 1440
+    },
+    "cantiere-12-37-17-1": {
+      "id": "cantiere-12-37-17-1",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.17-1.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "WhatsApp Image 2026-10-06 at 12.37.17 (1)",
+      "src": "/img/cantiere-12-37-17-1.webp",
+      "thumb": "/img/cantiere-12-37-17-1-800.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "cantiere-12-37-18": {
+      "id": "cantiere-12-37-18",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.18.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "WhatsApp Image 2026-10-06 at 12.37.18",
+      "src": "/img/cantiere-12-37-18.webp",
+      "thumb": "/img/cantiere-12-37-18-800.webp",
+      "width": 1600,
+      "height": 1200
+    },
+    "cantiere-12-37-18-1": {
+      "id": "cantiere-12-37-18-1",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.18-1.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "WhatsApp Image 2026-10-06 at 12.37.18 (1)",
+      "src": "/img/cantiere-12-37-18-1.webp",
+      "thumb": "/img/cantiere-12-37-18-1-800.webp",
+      "width": 1200,
+      "height": 1600
+    },
+    "cantiere-12-37-19": {
+      "id": "cantiere-12-37-19",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.19.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "WhatsApp Image 2026-10-06 at 12.37.19",
+      "src": "/img/cantiere-12-37-19.webp",
+      "thumb": "/img/cantiere-12-37-19-800.webp",
+      "width": 1200,
+      "height": 1600
+    },
+    "cantiere-12-37-17": {
+      "id": "cantiere-12-37-17",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.17.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "WhatsApp Image 2026-10-06 at 12.37.17",
+      "src": "/img/cantiere-12-37-17.webp",
+      "thumb": "/img/cantiere-12-37-17-800.webp",
+      "width": 900,
+      "height": 1600
+    },
+    "bricklayer-wearing-hard-hat-working-on-brick-wall": {
+      "id": "bricklayer-wearing-hard-hat-working-on-brick-wall",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/09/bricklayer-wearing-hard-hat-working-on-brick-wall-2026-09-24-06-00-40-utc-scaled.jpg",
+      "kind": "stock",
+      "alt": "",
+      "src": "/img/bricklayer-wearing-hard-hat-working-on-brick-wall.webp",
+      "thumb": "/img/bricklayer-wearing-hard-hat-working-on-brick-wall-800.webp",
+      "width": 1920,
+      "height": 1280
+    },
+    "cantiere-12-37-17-2": {
+      "id": "cantiere-12-37-17-2",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.17-2.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "",
+      "src": "/img/cantiere-12-37-17-2.webp",
+      "thumb": "/img/cantiere-12-37-17-2-800.webp",
+      "width": 1600,
+      "height": 900
+    },
+    "cantiere-12-37-17-3": {
+      "id": "cantiere-12-37-17-3",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.17-3.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "",
+      "src": "/img/cantiere-12-37-17-3.webp",
+      "thumb": "/img/cantiere-12-37-17-3-800.webp",
+      "width": 1200,
+      "height": 1600
+    },
+    "cantiere-12-37-17-4": {
+      "id": "cantiere-12-37-17-4",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.17-4.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "",
+      "src": "/img/cantiere-12-37-17-4.webp",
+      "thumb": "/img/cantiere-12-37-17-4-800.webp",
+      "width": 1200,
+      "height": 1600
+    },
+    "cantiere-12-37-17-5": {
+      "id": "cantiere-12-37-17-5",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-12.37.17-5.jpeg",
+      "kind": "foto-cantiere",
+      "alt": "",
+      "src": "/img/cantiere-12-37-17-5.webp",
+      "thumb": "/img/cantiere-12-37-17-5-800.webp",
+      "width": 1200,
+      "height": 1600
+    },
+    "roofer-laying-asphalt-shingles-on-a-house-roof": {
+      "id": "roofer-laying-asphalt-shingles-on-a-house-roof",
+      "source": "https://gavsrls.it/wp-content/uploads/2026/09/roofer-laying-asphalt-shingles-on-a-house-roof-2026-09-23-04-08-52-utc-scaled.jpg",
+      "kind": "stock",
+      "alt": "",
+      "src": "/img/roofer-laying-asphalt-shingles-on-a-house-roof.webp",
+      "thumb": "/img/roofer-laying-asphalt-shingles-on-a-house-roof-800.webp",
+      "width": 1920,
+      "height": 1280
+    }
+  }
+}

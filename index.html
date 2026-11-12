@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GAV SRLS | Impresa edile in Lombardia</title>
+    <meta name="description" content="GAV SRLS è un’impresa operativa in Lombardia specializzata nel settore dell’edilizia e nei lavori di muratura, con un’offerta di servizi pensata per rispondere alle diverse esigenze di privati, aziende e proprietari di immobili." />
+    <meta name="theme-color" content="#01253e" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:site_name" content="GAV SRLS" />
+    <meta property="og:title" content="GAV SRLS | Impresa edile in Lombardia" />
+    <meta property="og:image" content="/img/cantiere-12-37-17-2.webp" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "GeneralContractor",
+        "name": "GAV SRLS",
+        "url": "https://gavsrls.it/",
+        "logo": "https://gavsrls.it/brand/logo-gav.svg",
+        "telephone": "+393664159881",
+        "email": "gav.s.r.l.s99@gmail.com",
+        "vatID": "IT03010720187",
+        "areaServed": "Lombardia",
+        "openingHoursSpecification": [
+          { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "07:00", "closes": "18:00" },
+          { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "07:00", "closes": "12:00" }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Modulo statico per il riconoscimento di Netlify Forms (il modulo vero è in React) -->
+    <form name="preventivo" data-netlify="true" netlify-honeypot="sito-web" hidden>
+      <input type="text" name="nome" />
+      <input type="text" name="cognome" />
+      <input type="email" name="email" />
+      <input type="tel" name="telefono" />
+      <input type="text" name="oggetto" />
+      <textarea name="messaggio"></textarea>
+      <input type="checkbox" name="privacy" />
+      <input type="text" name="sito-web" />
+    </form>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

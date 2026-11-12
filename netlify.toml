@@ -1,0 +1,130 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# ---------- 301 dai vecchi indirizzi WordPress ----------
+[[redirects]]
+  from = "/imprese-edili-e-ditte-specializzate-in-lavori-di-muratura/*"
+  to = "/servizi/muratura"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/imprese-edili-e-ditte-specializzate-in-lavori-di-muratura"
+  to = "/servizi/muratura"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/coperture/*"
+  to = "/servizi/coperture"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/coperture"
+  to = "/servizi/coperture"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/lavori-chiavi-in-mano/*"
+  to = "/servizi/chiavi-in-mano"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/lavori-chiavi-in-mano"
+  to = "/servizi/chiavi-in-mano"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/informativa-trattamento-dati/*"
+  to = "/privacy"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/informativa-sul-trattamento-dei-dati-personali/*"
+  to = "/privacy"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/cookie-policy/*"
+  to = "/cookie"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/cookie-policy"
+  to = "/cookie"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/home/*"
+  to = "/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/feed/*"
+  to = "/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/comments/feed/*"
+  to = "/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/category/*"
+  to = "/servizi"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sitemap_index.xml"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/page-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/post-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/wp-admin/*"
+  to = "/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/wp-login.php"
+  to = "/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/wp-content/*"
+  to = "/"
+  status = 301
+  force = true
+# Nota: /chi-siamo/ e le altre pagine con slash finale funzionano già (Netlify e React Router ignorano lo slash).
+
+# ---------- pagine del sito (SPA) ----------
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
